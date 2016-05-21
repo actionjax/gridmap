@@ -1,2 +1,2 @@
 # gridmap
-trying out some 
+angular + gridster + leaflet + table + treeview?
